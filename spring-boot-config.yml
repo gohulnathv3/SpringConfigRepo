@@ -3,10 +3,6 @@ db:
   host : 123.41.12.12
   port : 1200
 
-app:
-  name : My App
-  description : welcome to configrRepo
-
 my:
   message: New updated message is coming from specic file in config-repo
 
