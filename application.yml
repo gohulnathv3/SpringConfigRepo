@@ -7,3 +7,5 @@ app:
   name : My App
   description : welcome to configrRepo
 
+my:
+  message: this message is coming from cloudrepo
