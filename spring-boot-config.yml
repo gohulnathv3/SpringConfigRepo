@@ -8,6 +8,6 @@ app:
   description : welcome to configrRepo
 
 my:
-  message: New message is coming from specic file in config-repo
+  message: New updated message is coming from specic file in config-repo
 
 
