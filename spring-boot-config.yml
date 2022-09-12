@@ -1,0 +1,13 @@
+db:
+  connection : "{ connectionString: 'http://mongodb.com from specific file in config server repo', userName:'gohul', password: 'pass'}"
+  host : 123.41.12.12
+  port : 1200
+
+app:
+  name : My App
+  description : welcome to configrRepo
+
+my:
+  message: Updated test message is coming from specic file in config-repo
+
+
