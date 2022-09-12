@@ -1,0 +1,9 @@
+db:
+  connection : "{ connectionString: 'http://mongodb.com', userName:'gohul', password: 'pass'}"
+  host : 123.41.12.12
+  port : 1200
+
+app:
+  name : My App
+  description : welcome to configrRepo
+
