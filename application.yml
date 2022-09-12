@@ -1,5 +1,5 @@
 db:
-  connection : "{ connectionString: 'http://mongodb.com', userName:'gohul', password: 'pass'}"
+  connection : "{ connectionString: 'http://mongodb.com from config server', userName:'gohul', password: 'pass'}"
   host : 123.41.12.12
   port : 1200
 
